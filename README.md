@@ -8,7 +8,7 @@
 Agenda
 --------------
 
-In this workshop, we’ll use Node to build a responsive, mobile-friendly Web app that serves web pages, exposes a RESTful API and persists data to a MongoDB database - all in the cloud, all for free! For the web pages, we’ll use a couple of Bootstrap themes and jQuery to make AJAX calls to our RESTful API. We’ll create a source code repository at GitHub.com and we’ll use Git to push changes to our source code repository. We’ll also use Git to deploy our app to Heroku, which will make our app publicly accessible in the cloud. For a working example of what we will be building, go to http://djohnsonkc-workshop1.herokuapp.com/
+In this workshop, we’ll use Node to build a responsive, mobile-friendly Web app that serves web pages, exposes a RESTful API and persists data to a MongoDB database - all in the cloud, all for free! For the web pages, we’ll use a couple of Bootstrap themes and jQuery to make AJAX calls to our RESTful API. We’ll create a source code repository at GitHub.com and we’ll use Git to push changes to our source code repository. We’ll also use Git to deploy our app to Heroku, which will make our app publicly accessible in the cloud. For a working example of what we will be building, go to http://djohnsonkc-node-workshop1.herokuapp.com/
 
 Preparation
 --------------
