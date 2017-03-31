@@ -9,9 +9,12 @@ var emailSchema = Schema({
     primary: { type: Boolean },
     created_at: { type: Date, default: Date.now },
     updated_at: { type: Date, default: Date.now }
-}, {
-    _id: true
+}, 
+{
+    _id: true,
+    versionKey: false
 });
+
 
 var accountSchema = Schema({
     first_name: { type: String, required: true, trim: true },
