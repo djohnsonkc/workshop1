@@ -2,7 +2,9 @@ Developer Workshop 1
 ------------------
 
 Building a responsive web app and a RESTful API with Node.js and MongoDB
+
 Author: Dywayne Johnson - Full-Stack Developer of mobile-optimized web apps, hybrid native apps, APIs, and databases
+
 Email: djohnsonkc@gmail.com
 
 
